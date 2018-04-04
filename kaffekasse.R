@@ -1,9 +1,3 @@
----
-title: "Kaffeekasse"
-output: html_notebook
----
-
-```{r}
 library(knitr)
 as.numeric.factor <- function(x) {as.numeric(levels(x))[x]}
 einnahmen <- rbind.data.frame(
@@ -40,6 +34,4 @@ print(stand)
 filenam <- file("README.md")
 writeLines(c(stand,"\n",kable(ausgaben,format = "markdown"),"\n",kable(einnahmen,format = "markdown")), filenam)
 close(filenam)
-
-```
 
