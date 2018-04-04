@@ -1,4 +1,4 @@
-Aktueller Stand: 3 Euro
+**Aktueller Stand: 3 Euro**
 
 
 |Ausgabe |Betrag |

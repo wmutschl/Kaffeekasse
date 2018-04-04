@@ -1,4 +1,7 @@
 library(knitr)
+library(rChoiceDialogs)
+setwd(rchoose.dir())
+
 as.numeric.factor <- function(x) {as.numeric(levels(x))[x]}
 einnahmen <- rbind.data.frame(
   c("07.10.2017", "Till",	      20),
@@ -27,8 +30,8 @@ ausgaben <- rbind.data.frame(
   c("Milch",  8)
 )
 colnames(ausgaben) <- c("Ausgabe","Betrag")
-stand <- paste("Aktueller Stand:", sum(as.numeric.factor(einnahmen$Betrag))-sum(as.numeric.factor(ausgaben$Betrag)),
-"Euro")
+stand <- paste("**Aktueller Stand:", sum(as.numeric.factor(einnahmen$Betrag))-sum(as.numeric.factor(ausgaben$Betrag)),
+"Euro**")
 print(stand)
 
 filenam <- file("README.md")
