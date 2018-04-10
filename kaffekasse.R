@@ -27,6 +27,7 @@ ausgaben <- rbind.data.frame(
   c("Milch",  8),
   c("Milch",  8),
   c("Kaffee", 96),
+  c("Milch",  8),
   c("Milch",  8)
 )
 colnames(ausgaben) <- c("Ausgabe","Betrag")

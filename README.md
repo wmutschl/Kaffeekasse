@@ -1,4 +1,4 @@
-**Aktueller Stand: 3 Euro**
+**Aktueller Stand: -5 Euro**
 
 
 |Ausgabe |Betrag |
@@ -8,6 +8,7 @@
 |Milch   |8      |
 |Milch   |8      |
 |Kaffee  |96     |
+|Milch   |8      |
 |Milch   |8      |
 
 
