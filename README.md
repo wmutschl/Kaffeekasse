@@ -1,4 +1,4 @@
-**Aktueller Stand: -5 Euro**
+**Aktueller Stand: 25 Euro**
 
 
 |Ausgabe |Betrag |
@@ -28,3 +28,4 @@
 |13.02.2018 |Friederike |10     |
 |15.02.2018 |Till       |10     |
 |18.02.2018 |Willi      |20     |
+|18.02.2018 |Kevin      |30     |
