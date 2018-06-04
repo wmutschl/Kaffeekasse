@@ -1,4 +1,4 @@
-**Aktueller Stand: 35 Euro**
+**Aktueller Stand: -83 Euro**
 
 
 |Ausgabe         |Betrag |
@@ -11,6 +11,7 @@
 |Milch           |8      |
 |Milch           |8      |
 |Wasserbehaelter |20     |
+|Kaffee          |118    |
 
 
 |Datum      |Name       |Betrag |

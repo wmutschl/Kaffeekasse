@@ -31,8 +31,9 @@ ausgaben <- rbind.data.frame(
   c("Kaffee", 96),
   c("Milch",  8),
   c("Milch",  8),
-  c("Wasserbehaelter", 20)
-)
+  c("Wasserbehaelter", 20),
+  c("Kaffee", 118)
+  )
 colnames(ausgaben) <- c("Ausgabe","Betrag")
 stand <- paste("**Aktueller Stand:", sum(as.numeric.factor(einnahmen$Betrag))-sum(as.numeric.factor(ausgaben$Betrag)),
 "Euro**")
