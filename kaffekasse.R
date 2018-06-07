@@ -19,7 +19,10 @@ einnahmen <- rbind.data.frame(
   c("15.02.2018", "Till",	      10),			
   c("18.02.2018", "Willi",      20),
   c("18.02.2018", "Kevin",      30),
-  c("18.02.2018", "Martina",      30)
+  c("18.02.2018", "Martina",    30),
+  c("04.06.2018", "Manuel",     20),
+  c("05.06.2018", "Andreas",    20),
+  c("05.06.2018", "Willi",      30)
 )
 colnames(einnahmen) <- c("Datum","Name","Betrag")
 
