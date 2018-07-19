@@ -1,4 +1,4 @@
-**Aktueller Stand: -13 Euro**
+**Aktueller Stand: 7 Euro**
 
 
 |Ausgabe         |Betrag |
@@ -35,3 +35,4 @@
 |04.06.2018 |Manuel     |20     |
 |05.06.2018 |Andreas    |20     |
 |05.06.2018 |Willi      |30     |
+|05.06.2018 |Friederike |20     |
