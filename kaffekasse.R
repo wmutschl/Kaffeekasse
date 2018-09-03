@@ -23,7 +23,8 @@ einnahmen <- rbind.data.frame(
   c("04.06.2018", "Manuel",     20),
   c("05.06.2018", "Andreas",    20),
   c("05.06.2018", "Willi",      30),
-  c("05.06.2018", "Friederike", 20)
+  c("05.06.2018", "Friederike", 20),
+  c("05.06.2018", "Hauke", 20)
 )
 colnames(einnahmen) <- c("Datum","Name","Betrag")
 
@@ -36,7 +37,8 @@ ausgaben <- rbind.data.frame(
   c("Milch",  8),
   c("Milch",  8),
   c("Wasserbehaelter", 20),
-  c("Kaffee", 118)
+  c("Kaffee", 118),
+  c("Milch",8)
   )
 colnames(ausgaben) <- c("Ausgabe","Betrag")
 stand <- paste("**Aktueller Stand:", sum(as.numeric.factor(einnahmen$Betrag))-sum(as.numeric.factor(ausgaben$Betrag)),

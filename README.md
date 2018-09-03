@@ -1,4 +1,4 @@
-**Aktueller Stand: 7 Euro**
+**Aktueller Stand: 19 Euro**
 
 
 |Ausgabe         |Betrag |
@@ -12,6 +12,7 @@
 |Milch           |8      |
 |Wasserbehaelter |20     |
 |Kaffee          |118    |
+|Milch           |8      |
 
 
 |Datum      |Name       |Betrag |
@@ -36,3 +37,4 @@
 |05.06.2018 |Andreas    |20     |
 |05.06.2018 |Willi      |30     |
 |05.06.2018 |Friederike |20     |
+|05.06.2018 |Hauke      |20     |
