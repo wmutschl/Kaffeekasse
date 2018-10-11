@@ -24,7 +24,10 @@ einnahmen <- rbind.data.frame(
   c("05.06.2018", "Andreas",    20),
   c("05.06.2018", "Willi",      30),
   c("05.06.2018", "Friederike", 20),
-  c("05.06.2018", "Hauke", 20)
+  c("05.06.2018", "Hauke",      20),
+  c("05.06.2018", "Till",       20),
+  c("05.06.2018", "Kevin",      20),
+  c("05.06.2018", "Andreas",    20)
 )
 colnames(einnahmen) <- c("Datum","Name","Betrag")
 
@@ -38,6 +41,8 @@ ausgaben <- rbind.data.frame(
   c("Milch",  8),
   c("Wasserbehaelter", 20),
   c("Kaffee", 118),
+  c("Milch",8),
+  c("Kaffee", 20),
   c("Milch",8)
   )
 colnames(ausgaben) <- c("Ausgabe","Betrag")
