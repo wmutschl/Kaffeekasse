@@ -1,4 +1,4 @@
-**Aktueller Stand: 51 Euro**
+**Aktueller Stand: -2 Euro**
 
 
 |Ausgabe         |Betrag |
@@ -15,6 +15,9 @@
 |Milch           |8      |
 |Kaffee          |20     |
 |Milch           |8      |
+|Milch           |8      |
+|Milch           |8      |
+|Kaffee          |99     |
 
 
 |Datum      |Name       |Betrag |
@@ -43,3 +46,7 @@
 |05.06.2018 |Till       |20     |
 |05.06.2018 |Kevin      |20     |
 |05.06.2018 |Andreas    |20     |
+|03.02.2019 |Andreas    |11     |
+|03.02.2019 |Friederike |11     |
+|05.02.2019 |Hauke      |20     |
+|05.02.2019 |Willi      |20     |
