@@ -1,4 +1,4 @@
-**Aktueller Stand: -80 Euro**
+**Aktueller Stand: 15 Euro**
 
 
 |Ausgabe         |Betrag |
@@ -51,3 +51,7 @@
 |03.02.2019 |Friederike |11     |
 |05.02.2019 |Hauke      |20     |
 |05.02.2019 |Willi      |20     |
+|01.08.2019 |Friederike |20     |
+|01.08.2019 |Kevin      |35     |
+|01.08.2019 |Andreas    |20     |
+|05.08.2019 |Willi      |20     |
