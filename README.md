@@ -1,4 +1,4 @@
-**Aktueller Stand: 15 Euro**
+**Aktueller Stand: -34 Euro**
 
 
 |Ausgabe         |Betrag |
@@ -19,6 +19,8 @@
 |Milch           |8      |
 |Kaffee          |99     |
 |Kaffee          |78     |
+|Kaffee          |30     |
+|Reinigungskram  |19     |
 
 
 |Datum      |Name       |Betrag |
