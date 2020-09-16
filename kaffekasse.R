@@ -5,8 +5,10 @@ setwd("~/Work/Verwaltung/Kaffeekasse")
 
 as.numeric.factor <- function(x) {as.numeric(levels(x))[x]}
 einnahmen <- rbind.data.frame(
-  c("15.09.2020", "Manuel", 40),
   c("15.09.2020", "Andreas",    50),
+  c("16.09.2020", "Friederike", 35),
+  c("15.09.2020", "Kevin",      50),
+  c("15.09.2020", "Manuel",     40),
   c("15.09.2020", "Willi",      15),
   c("2019", "Andreas",    11+20),
   c("2019", "Friederike", 11+20),

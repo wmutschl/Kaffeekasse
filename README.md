@@ -1,4 +1,4 @@
-**Aktueller Stand: -96 Euro**
+**Aktueller Stand: 29 Euro**
 
 
 |Datum      |Ausgabe                      |Betrag |
@@ -12,6 +12,9 @@
 |Datum      |Name       |Betrag |
 |:----------|:----------|:------|
 |15.09.2020 |Andreas    |50     |
+|16.09.2020 |Friederike |35     |
+|15.09.2020 |Kevin      |50     |
+|15.09.2020 |Manuel     |40     |
 |15.09.2020 |Willi      |15     |
 |2019       |Andreas    |31     |
 |2019       |Friederike |31     |
