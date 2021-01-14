@@ -5,6 +5,7 @@ setwd("~/Work/Verwaltung/Kaffeekasse")
 
 as.numeric.factor <- function(x) {as.numeric(levels(x))[x]}
 einnahmen <- rbind.data.frame(
+  c("15.09.2020", "Mark",      150),
   c("15.09.2020", "Andreas",    50),
   c("16.09.2020", "Friederike", 35),
   c("15.09.2020", "Kevin",      50),
@@ -41,7 +42,7 @@ ausgaben <- rbind.data.frame(
   c("2017-2019", "Kaffee+Milch+Reinigungskrams", 109+96+118+20+99+78+30 + 8*9 + 20+19)
 )
 colnames(ausgaben) <- c("Datum","Ausgabe","Betrag")
-stand <- paste("**Aktueller Stand:", sum(as.numeric.factor(einnahmen$Betrag))-sum(as.numeric.factor(ausgaben$Betrag)),
+stand <- paste("**Aktueller Stand:", sum(as.numeric(einnahmen$Betrag))-sum(as.numeric(ausgaben$Betrag)),
 "Euro**")
 print(stand)
 

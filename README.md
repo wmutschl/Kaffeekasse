@@ -1,4 +1,4 @@
-**Aktueller Stand: 29 Euro**
+**Aktueller Stand: 179 Euro**
 
 
 |Datum      |Ausgabe                      |Betrag |
@@ -11,6 +11,7 @@
 
 |Datum      |Name       |Betrag |
 |:----------|:----------|:------|
+|15.09.2020 |Mark       |150    |
 |15.09.2020 |Andreas    |50     |
 |16.09.2020 |Friederike |35     |
 |15.09.2020 |Kevin      |50     |
