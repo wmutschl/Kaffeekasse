@@ -1,8 +1,9 @@
-**Aktueller Stand: 179 Euro**
+**Aktueller Stand: -1 Euro**
 
 
 |Datum      |Ausgabe                      |Betrag |
 |:----------|:----------------------------|:------|
+|22.03.2021 |Kaffee 12kg (Amazon a 15)    |180    |
 |15.09.2020 |Kaffee 10kg (real)           |80     |
 |15.09.2020 |Wasserfilter (real)          |37     |
 |15.09.2020 |Entkalker (amazon)           |10     |

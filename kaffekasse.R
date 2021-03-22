@@ -36,6 +36,7 @@ einnahmen <- rbind.data.frame(
 colnames(einnahmen) <- c("Datum","Name","Betrag")
 
 ausgaben <- rbind.data.frame(
+  c("22.03.2021", "Kaffee 12kg (Amazon a 15)", 180),
   c("15.09.2020", "Kaffee 10kg (real)", 80),
   c("15.09.2020", "Wasserfilter (real)", 37),
   c("15.09.2020", "Entkalker (amazon)", 10),
